@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/mybutton"
+        android:title="About Developer"
+        android:icon="@drawable/webdevelopment"
+        android:tooltipText="Find By Field"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/mybutton2"
+        android:title="About Application"
+        android:icon="@drawable/information"
+        android:tooltipText="Find By Field"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mybutton3"
+        android:title="About Application"
+        android:icon="@drawable/charity"
+        android:tooltipText="Find By Field"
+        app:showAsAction="always" />
+
+
+
+</menu>
