@@ -18,7 +18,7 @@ This is a project developed to help people in getting updates on Covid19 statist
 
 **IDE:** Android Studio
 
-**Languges Used:** Java,XML
+**Languges Used:** Java, XML
 
 **Database:** Firebase
 
